@@ -1,0 +1,10 @@
+0 y - 0 0 0 0 0 p 0 a + 0 3 s 1 - 0 + 0.11819005 118.41813 118.86405 118.0816 0 onset coda coda 0 0 1 0 0 1 initial u + 0 1 l 3 + 0 + 0 0 content content content 
+1 o + 0 2 s 3 + 0 + a + 0 3 s 1 - 0 + 0.13584995 124.78305 115.67168 123.6798 0 onset coda coda 0 0 1 0 0 1 initial q - s 0 0 0 0 0 0 0 0 content content 0 
+2 a + 0 3 s 1 - 0 + o + 0 2 s 3 + 0 + 0.13467979 114.37427 114.78066 113.99958 0 onset coda coda 0 0 1 0 0 0 mid qh - s 0 0 0 0 0 0 0 0 content content 0 
+3 a + 0 3 s 1 - 0 + a + 0 3 s 1 - 0 + 0.13683009 115.19118 115.65537 114.78066 0 onset coda coda 0 0 1 0 0 1 initial t - s 0 0 0 0 a 0 0 0 content content 0 
+4 pau - 0 0 0 0 0 0 - a + 0 3 s 1 - 0 + 0.12930012 118.88715 119.68474 118.46866 0 onset coda coda 0 0 1 0 0 3 initial u + 0 1 l 3 + 0 + 0 1 content content 0 
+5 s - s 0 0 0 0 a 0 a + 0 3 s 1 - 0 + 0.103167 127.77541 137.8941 127.19991 0 onset coda coda 0 0 1 0 1 0 final o1 + 0 2 s 3 + 0 + 0 0 content 0 content 
+6 s - s 0 0 0 0 a 0 a1 + 0 3 s 1 - 0 + 0.105959 128.73087 129.5032 138.20491 1 onset coda coda 1 0 1 0 0 0 mid u + 0 1 l 3 + 0 + 0 0 content 0 content 
+7 n - n 0 0 0 0 a 0 a + 0 3 s 1 - 0 + 0.095400095 118.18338 118.47321 117.88582 0 onset coda coda 0 0 1 0 0 1 initial a + 0 3 s 1 - 0 + 0 0 content content 0 
+8 s - s 0 0 0 0 a 0 a1 + 0 3 s 1 - 0 + 0.10067201 138.60959 129.27081 138.12897 1 onset coda coda 1 0 1 0 0 0 mid o + 0 2 s 3 + 0 + 0 0 content 0 content 
+9 i + 0 1 s 1 - 0 + a + 0 3 s 1 - 0 + 0.17552197 123.66667 124.38025 122.99989 0 onset coda coda 0 0 1 0 0 1 initial n - n 0 0 0 0 a 0 0 0 content content content 

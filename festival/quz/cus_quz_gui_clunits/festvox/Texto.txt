@@ -1,0 +1,17 @@
+build_clunits.scm
+build_st.scm
+cuslex_quechua.scm
+cus_quechua_phones.scm
+cus_quechua_tokenizer.scm
+cus_quz_gui_clunits.scm
+cus_quz_gui_duration.scm
+cus_quz_gui_durdata.scm
+cus_quz_gui_f0model.scm
+cus_quz_gui_intonation.scm
+cus_quz_gui_lexicon.scm
+cus_quz_gui_other.scm
+cus_quz_gui_phoneset.scm
+cus_quz_gui_phrasing.scm
+cus_quz_gui_tagger.scm
+cus_quz_gui_tokenizer.scm
+Texto.txt

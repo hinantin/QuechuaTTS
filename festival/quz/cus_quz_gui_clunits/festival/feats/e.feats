@@ -1,0 +1,13 @@
+0 s - s 0 0 0 0 a 0 n - n 0 0 0 0 a 0 0.050449848 121.34441 121.58363 121.06502 0 coda coda onset 0 1 0 0 0 0 mid i + 0 1 s 1 - 0 + 0 0 content content content 
+1 px - s 0 0 0 0 l 0 n - n 0 0 0 0 a 0 0.14249015 116.85876 117.36518 116.31163 0 coda coda onset 0 1 0 0 0 1 initial a + 0 3 s 1 - 0 + 0 0 content content content 
+2 q - s 0 0 0 0 0 0 k - s 0 0 0 0 v 0 0.086517036 127.96857 128.22841 127.63622 0 coda onset onset 0 1 0 1 0 0 mid r - s 0 0 0 0 a 0 0 0 content content content 
+3 y - 0 0 0 0 0 p 0 r - s 0 0 0 0 a 0 0.095746011 128.67357 129.0885 128.42178 0 coda coda coda 0 0 1 0 0 1 initial a + 0 3 s 1 - 0 + 0 0 content content content 
+4 q - s 0 0 0 0 0 0 y - 0 0 0 0 0 p 0 0.048799992 125.60268 125.87051 125.45245 0 coda onset onset 0 1 0 1 0 0 mid a + 0 3 s 1 - 0 + 0 0 content content content 
+5 qx - s 0 0 0 0 0 0 s - s 0 0 0 0 a 0 0.067119956 117.46817 117.92525 116.91611 0 coda onset onset 0 1 0 1 0 1 initial n - n 0 0 0 0 a 0 0 0 content content 0 
+6 qx - s 0 0 0 0 0 0 p - s 0 0 0 0 l 0 0.092040062 135.1732 135.77966 125.25701 0 coda onset onset 0 1 0 1 0 1 initial q - s 0 0 0 0 0 0 0 0 content content content 
+7 q - s 0 0 0 0 0 0 l - s 0 0 0 0 a 0 0.083549976 123.4917 123.9538 133.11905 0 coda onset onset 0 1 0 1 1 0 final a1 + 0 3 s 1 - 0 + 0 0 content content content 
+8 w - 0 0 0 0 0 0 0 k - s 0 0 0 0 v 0 0.068365991 126.37461 126.64498 126.1314 0 coda onset onset 0 1 0 1 1 0 final o1 + 0 2 s 3 + 0 + 0 0 content content content 
+9 w - 0 0 0 0 0 0 0 k - s 0 0 0 0 v 0 0.082900047 132.5177 123.13374 131.7728 0 coda onset onset 0 1 0 1 1 0 final o1 + 0 2 s 3 + 0 + 0 0 content content content 
+10 q - s 0 0 0 0 0 0 y - 0 0 0 0 0 p 0 0.089634031 127.19809 137.59285 126.59204 0 coda coda onset 0 1 0 0 1 0 final y - 0 0 0 0 0 p 0 0 0 content 0 content 
+11 q - s 0 0 0 0 0 0 y - 0 0 0 0 0 p 0 0.067942023 137.57721 137.97171 127.94451 0 coda coda onset 0 1 0 0 1 0 final y - 0 0 0 0 0 p 0 0 0 content 0 content 
+12 q - s 0 0 0 0 0 0 L - s 0 0 0 0 p 0 0.082159996 129.55148 120.18034 129.15793 0 coda onset onset 0 1 0 1 0 1 initial a + 0 3 s 1 - 0 + 0 0 content content 0 
