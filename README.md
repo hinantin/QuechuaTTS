@@ -7,6 +7,11 @@
   * Juan Antonio Cruz Tello, e-mail: j.soccoo@gmail.com
   * Richard Alexander Castro Mamani, e-mail: rcastro@hinantin.com
 
+**Folder structure**
+
+  * `docs` documentation
+  * `festival` compiled voices
+
 
 
 
