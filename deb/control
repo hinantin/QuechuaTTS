@@ -1,0 +1,18 @@
+Package: cusquzguihts
+Version: 1.0.0
+Section: non-free/sound
+Priority: extra
+Architecture: all
+Depends: festival (>= 1.4.3-9)
+Installed-Size: 52
+Maintainer: <rcastro@hinantin.com>
+Description: Male Cusco Quechua voice for Festival
+ This is a hts-based male Quechua voice for the Festival speech
+ synthesis system. These original audio files were recorded by a native voice
+ talent in a quite room. 
+ .
+ This voice was developed by the Hinantin Research Group
+ in collaboration with the AhoLab Signal Processing Laboratory.
+ .
+ The primary objective was to integrate a clunits voice for Cusco Quechua.
+ See http://www.hinantin.com for more information.
