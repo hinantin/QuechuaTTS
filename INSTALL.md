@@ -1,6 +1,6 @@
 ### Prerequisites
 
-##### Step 1. Install Festival
+##### Step 1. Install Festival using the source code
 
 Download Festival from http://www.cstr.ed.ac.uk/projects/festival/download.html
 
