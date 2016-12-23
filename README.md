@@ -5,7 +5,7 @@
 
   * John Edgar Vargas Muñoz, e-mail: jonv147@hotmail.com 
   * Juan Antonio Cruz Tello, e-mail: j.soccoo@gmail.com
-  * Richard Alexander Castro Mamani, e-mail: rcastro@hinantin.com
+  * Richard Alexander Castro Mamani, e-mail: richard.castro.mamani@gmail.com
 
 **Folder structure**
 
