@@ -8,6 +8,7 @@ Download Festival from http://www.cstr.ed.ac.uk/downloads/festival/2.4/
 $ sudo apt-get update
 $ sudo apt-get install g++
 $ sudo apt-get install build-essential
+$ sudo apt-get install libncurses5-dev
 # 
 $ mkdir festival ; cd festival 
 $ wget http://www.cstr.ed.ac.uk/downloads/festival/2.4/festival-2.4-release.tar.gz
@@ -17,6 +18,10 @@ $ wget http://www.cstr.ed.ac.uk/downloads/festival/2.4/speech_tools-2.4-release.
 $ wget http://www.cstr.ed.ac.uk/downloads/festival/2.4/speech_tools-2.4-with-wrappers.tar.gz
 # Compile speech tools
 $ tar -zxvf speech_tools-2.4-release.tar.gz
+$ cd speech_tools
+$ ./configure
+$ make
+
 
 ```
 
