@@ -18,6 +18,7 @@ $ mkdir quz
 ```
 
 ```
+$ git clone https://github.com/hinantin/QuechuaTTS 
 $ sudo cp QuechuaTTS/festival/quz/cus_quz_gui_clunits /usr/share/festival/voices/quz
 ```
 
