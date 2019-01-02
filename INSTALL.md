@@ -19,8 +19,16 @@ $ wget http://www.cstr.ed.ac.uk/downloads/festival/2.4/speech_tools-2.4-with-wra
 # Compile speech tools
 $ tar -zxvf speech_tools-2.4-release.tar.gz
 $ cd speech_tools
-$ ./configure
-$ make
+$ CC=gcc-4.8 ./configure
+$ make 
+$ make test 
+$ cd ..
+# Festival 
+$ tar -zxvf 
+$ cd festival
+$ festival-2.4-release.tar.gz
+$ make CC=gcc-4.8 CPP=g++-4.8 CXX=g++-4.8 LD=g++-4.8
+
 
 
 ```
