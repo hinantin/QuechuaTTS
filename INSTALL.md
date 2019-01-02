@@ -4,6 +4,15 @@
 
 Download Festival from http://www.cstr.ed.ac.uk/downloads/festival/2.4/
 
+```
+$ mkdir festival ; cd festival 
+$ wget http://www.cstr.ed.ac.uk/downloads/festival/2.4/festival-2.4-release.tar.gz
+$ wget http://www.cstr.ed.ac.uk/downloads/festival/2.4/festlex_CMU.tar.gz
+$ wget http://www.cstr.ed.ac.uk/downloads/festival/2.4/festlex_POSLEX.tar.gz
+$ wget http://www.cstr.ed.ac.uk/downloads/festival/2.4/speech_tools-2.4-release.tar.gz
+$ wget http://www.cstr.ed.ac.uk/downloads/festival/2.4/speech_tools-2.4-with-wrappers.tar.gz
+```
+
 Or 
 
 ```
