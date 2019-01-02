@@ -2,7 +2,7 @@
 
 ##### Step 1. Install Festival using the source code
 
-Download Festival from http://www.cstr.ed.ac.uk/projects/festival/download.html
+Download Festival from http://www.cstr.ed.ac.uk/downloads/festival/2.4/
 
 Or 
 
