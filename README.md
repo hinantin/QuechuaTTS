@@ -11,6 +11,9 @@
 
   * `docs` documentation
   * `festival` compiled voices
+  
+Fully compatible with "Festival Speech Synthesis System 2.1" 
+
 
 
 
