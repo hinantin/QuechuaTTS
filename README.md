@@ -14,6 +14,14 @@
   
 Fully compatible with "Festival Speech Synthesis System 2.1" 
 
+** Virtual Box **
+
+https://www.dropbox.com/sh/v3f5j8msczlyohr/AACWqNt9rfHmQnrewhFQ9z5wa?dl=0
+
+user: richard
+password: richard
+
+
 
 
 
